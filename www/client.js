@@ -12,7 +12,7 @@ function updateNameValue(e) {
 }
 
 // URL to our Token Server
-const tokenServerURL = 'https://dolby-workshop1.netlify.app/api/token-generator';
+const tokenServerURL = 'https://dolby-workshop1-token-server.netlify.app/api/token-generator';
 
 
 
